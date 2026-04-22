@@ -6,11 +6,14 @@
 下载完成后双击 .msi 文件
 按照安装向导完成安装，保持默认设置即可
 还需要安装Node.js 以及 Git Bash  Nodejs同样去官网下载 安装好后node --version 验证
+
 1）安装 Git for Windows
 去这里下载并安装：
 https://git-scm.com/downloads/win
+
 2）确认 bash.exe 的位置
 通常在这个路径：
+
 3）设置环境变量 CLAUDE_CODE_GIT_BASH_PATH
 把它指向你的 bash.exe。
 
