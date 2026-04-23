@@ -1,5 +1,5 @@
 # CluadeCodeForRider
-##尝试使用在Rider中链接Claude Code使用
+##Claude Code使用
 ###首先从零开始去官网下载CluadeCll终端  
 打开浏览器访问 https://nodejs.org/
 点击 "LTS" 版本进行下载（推荐长期支持版本）
